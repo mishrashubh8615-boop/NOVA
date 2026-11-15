@@ -9,7 +9,7 @@ Technologies Used:
 4. PyAudio – Microphone input.
 5. Requests – Fetches news/API data.
 6. python-dotenv – Manages environment variables.
-Installation Guide: Clone the repository using Git:Or download the repository as a ZIP file from GitHub and extract it.
+Installation Guide: Clone the repository using Git: git clone https://github.com/mishrashubh8615-boop/NOVA Or download the repository as a ZIP file from GitHub and extract it.
 
 Install Required Dependencies Open the project folder in VS Code or your terminal and run: pip install -r requirements.txt
 
@@ -26,3 +26,6 @@ python main.py
 Make sure your microphone is connected and working before starting NOVA.
 
 That's it! NOVA is ready to assist you.
+
+
+To run NOVA you can also run NOVA.exe
