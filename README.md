@@ -27,7 +27,8 @@ python main.py
 
 Make sure your microphone is connected and working before starting NOVA.
 
-That's it! NOVA is ready to assist you.
-
 
 To run NOVA you can also run NOVA.exe
+
+For api of news :
+Get a news key at https://newsapi.org
